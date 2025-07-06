@@ -1,4 +1,4 @@
-# 🐍 Learn Python 3 — My Completed Jupyter Notebook Course
+# 🐍 Learn Python 3 - My Completed Jupyter Notebook Course
 
 This repository contains my completed work through the entire **"Learn Python 3"** course by [jerry-git](https://github.com/jerry-git). I used this as an intensive hands-on training in Python programming using Jupyter Notebooks.
 
@@ -27,7 +27,6 @@ This repository contains my completed work through the entire **"Learn Python 3"
 The exercises are organized in folders:
 - `notebooks/beginner/` – core Python basics
 - `notebooks/intermediate/` – more advanced tasks and real-world idioms
-- `scripts/` – final scripts and utilities
 
 I also practiced debugging, writing idiomatic Python code, and understanding test-driven development (TDD).
 
