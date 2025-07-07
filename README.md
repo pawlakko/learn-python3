@@ -47,5 +47,5 @@ The goal was to build confidence in Python, prepare for projects using Jupyter, 
 
 ## Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pawlowski-lukasz/) or check out my other work on [GitHub](https://github.com/pawlakko).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pawlowski-lukasz/) or check out my other work on [GitHub](https://github.com/pawlowski-ai).
 
